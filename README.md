@@ -17,3 +17,13 @@ Run MongoDB
 docker run -d  -p 27017:27017 mongo
 ```
 
+React:
+Install dependencies:
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
